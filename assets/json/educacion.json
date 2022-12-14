@@ -1,0 +1,42 @@
+{
+    "educacion1":
+        {"name":"Magister en Ingeniería de producción (Ingeniería Civil Industrial).",
+        "descripcion_corta":  "Departamento de Ingeniería de producción, Universidad Federal de Pernambuco, Brasil.",
+        "descripcion_larga":" ",
+        "imagen": " ",
+        "alt": " ",
+        "tiempo": "Desde 2021 ",
+        "src": " ",
+        "imagen_1": " "
+        },
+    "educacion2":
+       {"name":"Diplomado en Gestión de la Calidad y Productividad.",
+       "descripcion_corta":  "Escuela de Ingeniería, Universidad Católica.",
+       "descripcion_larga":" ",
+       "imagen": " ",
+       "alt": " ",
+       "tiempo": "2020 ",
+       "src": " ",
+       "imagen_1": " "
+       },
+    "educacion3":
+        {"name":"Diplomado en Confiabilidad, Mantenimiento y Gestión de Activos.",
+        "descripcion_corta":  "Facultad de Ciencias Físicas y Matemáticas, Universidad de Chile.",
+        "descripcion_larga":" ",
+        "imagen": " ",
+        "alt": " ",
+        "tiempo": "2019 ",
+        "src": " ",
+        "imagen_1": " "
+        },
+    "educacion4":
+            {"name":"Ingeniería Civil Mecánica.",
+            "descripcion_corta":  "Facultad de Ciencias Físicas y Matemáticas, Universidad de Chile.",
+            "descripcion_larga":" ",
+            "imagen": " ",
+            "alt": " ",
+            "tiempo": "2013 - 2019 ",
+            "src": " ",
+            "imagen_1": " "
+            }
+} 

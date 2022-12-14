@@ -1,0 +1,20 @@
+{"Trabajo1":
+    {"name":"Cientifico de datos en Alaya, NEA Consultotras.",
+    "descripcion_corta":  "Proponer soluciones a clientes mediante el uso de datos empresariales. Programar flujos de trabajo, extraer datos, preparar datos y entrenar modelos de aprendizaje automáticoProponer soluciones a clientes mediante el uso de datos empresariales. Programar flujos de trabajo, extraer datos, preparar datos y entrenar modelos de aprendizaje automático. ",
+    "descripcion_larga":"Se ha desarrollado un modelo de Máscaras de RCNN hecho en Torch que permite predecir el peso de un salmón con un error de sólo 200 gramos. Este modelo ha sido entrenado utilizando técnicas de visión por computadora avanzadas y el framework de ciencia de datos y aprendizaje profundo Torch, lo que le permite detectar y medir los salmones en imágenes de forma rápida y precisa.     El desarrollo de este modelo ha sido un trabajo extenso y minucioso que ha requerido muchas horas de investigación y pruebas. Sin embargo, gracias al uso eficiente del framework Torch y a la calidad del equipo de investigadores, hemos logrado completar este desafiante proyecto en un plazo razonable. <b> HOLA </b> Si quieres saber más sobre nuestro modelo de Máscaras de RCNN y cómo puede ayudarte a medir el peso de los salmones de manera precisa y eficiente, no dudes en contactarnos para obtener más información. Estamos seguros de que nuestro modelo será una excelente adición a tu equipo de procesamiento de imágenes y te ayudará a tomar decisiones precisas sobre el peso de los salmones.",
+    "imagen": "proyecto_pez.gif",
+    "alt": "proyecto  2 peces",
+    "tiempo": "Desde Noviembre de 2021 - Presente",
+    "src": "pez",
+    "imagen_1": "persistente.png"
+    },
+ "Trabajo2":
+    {"name":"Cientifico de datos e investigador en Centro de Estudos e Ensaios em Risco e Modelagem Ambiental (CEERMA), Universidad Federal de Pernambuco.",
+    "descripcion_corta":"Investigador y Data Scientist: Desarrollar metodologías de confiabilidad para equipos de pozos petrolíferos y realizar investigaciones orientadas a aprendizaje automático en la Universidad Federal de Pernambuco.Desarrollo de metodologías de confiabilidad para equipos y sistemas aplicados a la construcción de pozos petrolíferos.",
+    "descripcion_larga":"Se ha desarrollado un modelo de Máscaras de RCNN hecho en Torch que permite predecir el peso de un salmón con un error de sólo 200 gramos. Este modelo ha sido entrenado utilizando técnicas de visión por computadora avanzadas y el framework de ciencia de datos y aprendizaje profundo Torch, lo que le permite detectar y medir los salmones en imágenes de forma rápida y precisa.     El desarrollo de este modelo ha sido un trabajo extenso y minucioso que ha requerido muchas horas de investigación y pruebas. Sin embargo, gracias al uso eficiente del framework Torch y a la calidad del equipo de investigadores, hemos logrado completar este desafiante proyecto en un plazo razonable. <b> HOLA </b> Si quieres saber más sobre nuestro modelo de Máscaras de RCNN y cómo puede ayudarte a medir el peso de los salmones de manera precisa y eficiente, no dudes en contactarnos para obtener más información. Estamos seguros de que nuestro modelo será una excelente adición a tu equipo de procesamiento de imágenes y te ayudará a tomar decisiones precisas sobre el peso de los salmones.",
+    "imagen": "proyecto_pez.gif",
+    "alt": "proyecto 1 peces",
+    "tiempo": "Desde Octubre de 2019 - Hasta Noviembre de 2021",
+    "src": "pollo"
+    }
+} 

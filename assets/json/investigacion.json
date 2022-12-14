@@ -1,0 +1,29 @@
+{"investigacion1":
+    {"name": "Identification of risk features using text mining and BERT-based models: Application to an oil refinery.",
+    "descripcion_corta": "Proyecto basado en el análisis de documentos de evaluación de riesgos (Risk Assesment - RA) en refinerías de petróleo. Se realizó una extracción de documentos de evaluación de riesgos ya existentes para generar una base de datos con la que se seleccionó y entrenó el modelo de procesamiento natural de lenguaje BERT-Multilanguage para clasificar los documentos extraídos. Finalmente se creó una plataforma web basada en la librería Streamlit para crear un producto que integre el modelo y cree futuros documentos de evaluación de riesgos. Este trabajo también fue presentado en la conferencia de ESREL 2020 y ESREL 2021.",
+    "descripcion_larga": " ",
+    "imagen": " ",
+    "alt": " ",
+    "tiempo": "Article DOI: 10.1016/j.psep.2021.12.025",
+    "src": "http://dx.doi.org/10.1016/j.psep.2021.12.025",
+    "imagen_1": "persistente.png"
+    },
+ "investigacion2":
+    {"name":"A Deep Learning Framework for Damage Assessment of Composite Sandwich Structures.",
+    "descripcion_corta": "Proyecto financiado por Fondecyt 117053. Este trabajo se basa en la identificación de daños internos en placas sandwich, los datos fueron obtenidos a través del uso de técnicas de correlación de imágenes digitales de alta velocidad (DIC) y, además, se utilizaron simulaciones de elementos finitos para generar datos de laboratorio y así, poder entrenar un modelo de deep learning. Se trabajó como investigador y se realizó la selección de modelos a utilizar, finalmente se optó por el modelo de redes convolucionales y segmentación U-net. ",
+    "descripcion_larga": " ",
+    "imagen": " ",
+    "alt": " ",
+    "tiempo": "Article  DOI: 10.1155/2021/1483594",
+    "src":  "http://dx.doi.org/10.1155/2021/1483594"
+    },
+ "investigacion3":
+       {"name":"Detección de anomalías en componentes mecánicos en base a Deep Learning y Random Cut Forests.",
+       "descripcion_corta": "Se utilizó el modelo Random Cut Forest para la detección de anomalías en datos de vibraciones de componentes mecánicos, se investigaron distintos modelos de reducción de dimensionalidad (características principales, Principal Component Analysis y AutoEncoder) para aumentar el rendimiento del detector de anomalías y se adoptaron distintas formas de tratar los datos de vibración (transformada rápida de Fourier y transformada Wavelet).",
+       "descripcion_larga": " ",
+       "imagen": " ",
+       "alt": " ",
+       "tiempo": "Tesis de grado para optar a título de Inegniero Civil Mecánico en la Facultad de Ciencias Físicas y Matemáticas, Universidad de Chile.",
+       "src":  "https://repositorio.uchile.cl/handle/2250/170571"
+       }
+} 

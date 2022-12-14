@@ -1,0 +1,20 @@
+{"namebio":"Diego Aichele F.",
+ "about": "Busco desarrollarme como ingeniero civil mecánico especializado gestión de activos físicos. Tengo mucho interés en innovar y proponer nuevas ideas para solucionar problemas.",
+ "longbio": "Tengo un gran interés en las áreas de gestión de activos físicos, gestión de operaciones, optimización, data science, machine learning y deep learning. Me gusta innovar y buscar nuevos desafíos en mi trabajo. Me siento comprometido con el desarrollo de mis habilidades en estas áreas y disfruto explorando nuevas ideas y soluciones creativas a problemas complejos. En general, me considero una persona apasionada y comprometida con mi trabajo y con el avance en el campo de la tecnología y la optimización. optimización de procesos industriales. Me gusta investigar nuevas formas de mejorar la eficiencia y la productividad en la industria, y estoy comprometido con el desarrollo de mis habilidades en este campo. ",
+ "twitter": "https://twitter.com/diegoaichele",
+ "linkedin": "https://www.linkedin.com/in/diego-aichele/",
+ "github": "https://github.com/diegoaichele",
+ "image": "assets/images/profile.png",
+ "titlehome": "Ingeniero Civil Mecánico - Cientifico de Datos",
+ "style":"assets/css/theme-1.css",
+ "icon": "⭐️",
+ "PDF": "https://drive.google.com/file/d/1vnT5gDFgGHMJaOYmvt6SIR_1uEeXZFU5/view?usp=sharing",
+ "talento":{
+    "Python": 5,
+    "Matlab": 4
+  },
+  "talentomoreinfo":{
+     "Python": "Se han trabajado",
+     "Matlab": "Se han realizado"
+   }
+} 
