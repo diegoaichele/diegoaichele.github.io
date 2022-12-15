@@ -15,11 +15,11 @@ $(document).ready(function() {
         bioimage = document.querySelector("#bio-image")
         bioimage.src = value.image
         biotwitter = document.querySelector("#twitter")
-        biotwitter.src = value.twitter
+        biotwitter.href = value.twitter
         biolinkedin = document.querySelector("#linkedin")
-        biolinkedin.src = value.linkedin
+        biolinkedin.href = value.linkedin
         biogithub = document.querySelector("#github")
-        biogithub.src = value.github
+        biogithub.href = value.github
         biostyle = document.querySelector("#theme-style")
         biostyle.href = value.style
         $('#theme-style').attr('href', value.style)
