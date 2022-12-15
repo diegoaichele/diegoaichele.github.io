@@ -1,20 +1,19 @@
 {"pez":
     {"name":"Proyecto para prediccion de peso en linea, mediante imagenes.",
     "descripcion_corta":  "Hola, mi nombre es <strong>Juan</strong> y tengo <em>30</em> años.",
-    "descripcion_larga":"Se ha desarrollado un modelo de Máscaras de RCNN hecho en Torch que permite predecir el peso de un salmón con un error de sólo 200 gramos. Este modelo ha sido entrenado utilizando técnicas de visión por computadora avanzadas y el framework de ciencia de datos y aprendizaje profundo Torch, lo que le permite detectar y medir los salmones en imágenes de forma rápida y precisa.     El desarrollo de este modelo ha sido un trabajo extenso y minucioso que ha requerido muchas horas de investigación y pruebas. Sin embargo, gracias al uso eficiente del framework Torch y a la calidad del equipo de investigadores, hemos logrado completar este desafiante proyecto en un plazo razonable. <b> HOLA </b> Si quieres saber más sobre nuestro modelo de Máscaras de RCNN y cómo puede ayudarte a medir el peso de los salmones de manera precisa y eficiente, no dudes en contactarnos para obtener más información. Estamos seguros de que nuestro modelo será una excelente adición a tu equipo de procesamiento de imágenes y te ayudará a tomar decisiones precisas sobre el peso de los salmones.",
+    "descripcion_larga":[
+                        "Se ha desarrollado un modelo de Máscaras de RCNN hecho en Torch que permite predecir el peso de un salmón con un error de sólo 200 gramos.",
+                        "Este modelo ha sido entrenado utilizando técnicas de visión por computadora avanzadas y el framework de ciencia de datos y aprendizaje profundo Torch, lo que le permite detectar y medir los salmones en imágenes de forma rápida y precisa.",
+                        "El desarrollo de este modelo ha sido un trabajo extenso y minucioso que ha requerido muchas horas de investigación y pruebas.",
+                        "Sin embargo, gracias al uso eficiente del framework Torch y a la calidad del equipo de investigadores, hemos logrado completar este desafiante proyecto en un plazo razonable.",
+                        "Si quieres saber más sobre nuestro modelo de Máscaras de RCNN y cómo puede ayudarte a medir el peso de los salmones de manera precisa y eficiente, no dudes en contactarnos para obtener más información.",
+                        "Estamos seguros de que nuestro modelo será una excelente adición a tu equipo de procesamiento de imágenes y te ayudará a tomar decisiones precisas sobre el peso de los salmones."
+                    ],
     "imagen": "proyecto_pez.gif",
-    "alt": "proyecto  2 peces",
+    "banner": "assets/images/promo-banner.jpg",
+    "alt": "proyecto prediccion de pesos",
     "tiempo": "Proyecto realizado en 4 meses.",
     "src": "pez",
     "imagen_1": "persistente.png"
-    },
- "pollo":
-    {"name":"Proyecto para prediccion de peso en linea, mediante imagenes.",
-    "descripcion_corta":"bla bla bla lorem ",
-    "descripcion_larga":"Se ha desarrollado un modelo de Máscaras de RCNN hecho en Torch que permite predecir el peso de un salmón con un error de sólo 200 gramos. Este modelo ha sido entrenado utilizando técnicas de visión por computadora avanzadas y el framework de ciencia de datos y aprendizaje profundo Torch, lo que le permite detectar y medir los salmones en imágenes de forma rápida y precisa.     El desarrollo de este modelo ha sido un trabajo extenso y minucioso que ha requerido muchas horas de investigación y pruebas. Sin embargo, gracias al uso eficiente del framework Torch y a la calidad del equipo de investigadores, hemos logrado completar este desafiante proyecto en un plazo razonable. <b> HOLA </b> Si quieres saber más sobre nuestro modelo de Máscaras de RCNN y cómo puede ayudarte a medir el peso de los salmones de manera precisa y eficiente, no dudes en contactarnos para obtener más información. Estamos seguros de que nuestro modelo será una excelente adición a tu equipo de procesamiento de imágenes y te ayudará a tomar decisiones precisas sobre el peso de los salmones.",
-    "imagen": "proyecto_pollo.gif",
-    "alt": "proyecto 1 peces",
-    "tiempo": "Proyecto realizado en 4 meses.",
-    "src": "pollo"
     }
 } 

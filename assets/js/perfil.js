@@ -12,8 +12,6 @@ $(document).ready(function() {
         bioname.textContent = value.namebio
         bioabout = document.querySelector("#bio-about")
         bioabout.textContent = value.about
-        biolongabout = document.querySelector("#long-bio")
-        biolongabout.textContent = value.longbio
         bioimage = document.querySelector("#bio-image")
         bioimage.src = value.image
         biotwitter = document.querySelector("#twitter")
@@ -39,6 +37,8 @@ $(document).ready(function() {
 
         biobio = document.querySelector("#titlepage")
         biobio.textContent = value.titlehome
+        biolongabout = document.querySelector("#long-bio")
+        biolongabout.textContent = value.longbio
         });
 });
 

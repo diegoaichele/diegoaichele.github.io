@@ -39,7 +39,7 @@ $(document).ready(function() {
 
               const amore = document.createElement("a");
               amore.className = "more-link"
-              amore.href = "blog-post.html?proyecto=" + value.src   // Editable
+              amore.href = "proyecto.html?proyecto=" + value.src   // Editable
               amore.textContent = "Leer más →"                    // Editable
 
               // Appending Child
