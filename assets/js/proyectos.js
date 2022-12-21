@@ -25,7 +25,7 @@ $(document).ready(function() {
               const h3 = document.createElement("h3");
               h3.className = "title mb-1"
               const a = document.createElement("a");
-              a.href = "blog-post.html?proyecto=" + value.src            // Editable
+              a.href = "proyecto.html?proyecto=" + value.src            // Editable
               a.textContent = value.name                         // Editable
               
               const divmeta = document.createElement("div");
